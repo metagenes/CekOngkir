@@ -1,5 +1,5 @@
 # cekongkir
-
+Web built using Vue + Tailwind to check shipping fee.
 ## Project setup
 ```
 npm install
